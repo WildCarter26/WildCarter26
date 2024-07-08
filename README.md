@@ -1,4 +1,4 @@
-## Hey 👋 ![Vikas Rai](https://github.com/vikasrai11/vikasrai11/blob/main/banner.jpg)
+## Hello 👋 ![Vikas Rai](https://github.com/vikasrai11/vikasrai11/blob/main/banner.jpg)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🛡️Ethical_Hacker🌐;🐞Bug-Hunter🪲;🔐Web-Pentester🔒;🚀Python-Programmer🚀)
 
@@ -6,6 +6,8 @@
 - 🔭 Passionate about Cybersecurity
 - 🌱 I’m currently learning Blockchain Security
 - 💬 Ask me about Ethical Hacking, Web Security, Python
+
+<img align="right" alt="ape" width="400" src="https://github.com/WildCarter26/WildCarter26/blob/main/gif.gif">
 
 ### 📌 Tech Stack
 #### Programming Language
