@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Blockchain Security
 - 💬 Ask me about Ethical Hacking, Web Security, Python
 
-<img align="right" alt="hacker" width="400" src="https://github.com/WildCarter26/WildCarter26/blob/main/img.png">
+<img align="right" alt="hacker" width="400" src="https://github.com/WildCarter26/WildCarter26/blob/main/gif.gif">
 
 ### 📌 Tech Stack
 #### Programming Language
